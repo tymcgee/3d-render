@@ -7,9 +7,8 @@ This was my first attempt to make a 3D graphics engine and I learned a lot while
 - A lot about how to use both `pygame` and `opengl` (through `moderngl_window`)
 - The difference between "row major" and "column major" systems of doing matrix math (which was an endless source of frustration)
 - How much of the inner-workings of 3D graphics rendering works, at least on a basic level
-- And probably much more!
 
-As it stand I don't think I'll update this project, but I'll certainly revisit it whenever I need to remember how some of this stuff works!
+As it stands I don't think I'll update this project, but I'll certainly revisit it whenever I need to remember how some of this stuff works!
 
 # Requirements
 To run `with_pygame.py`, you need `pygame` and `numpy`:
